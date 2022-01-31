@@ -60,5 +60,5 @@
 
 
 
-**Obs** : Não utilizar os parentes que estão nos comandos, foram colocados apenas para auxiliar quando for utilizar o comando 
+**Obs** : Não utilizar os parenteses que estão nos comandos, foram colocados apenas para auxiliar quando for utilizar o comando 
 
