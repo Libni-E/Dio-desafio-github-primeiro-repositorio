@@ -8,7 +8,7 @@
 
 **rmdir** (Pasta/Arquivo)  = Deletar pastas ou arquivos
 
-**cd** (Pasta desejada) = Navegar para dentro de uma pasta desejada)
+**cd** (Pasta desejada) = (Navegar para dentro de uma pasta desejada)
 
 **cd /** = Caminho especifico 
 
@@ -25,6 +25,10 @@
 **ctrl** = Limpar tela 
 
 **seta para cima** = Atalho para comandos utilizados antes 
+
+**touch** = comando para criar arquivos
+
+
 
 
 
@@ -44,6 +48,8 @@
 
 **git add** = Iniciar o versionamento 
 
+**git add .** = comando para adicionar todos os arquivos na area de transferencia para o commit
+
 **git commit -m "sempre colocar aqui oque foi feito no arquivo "** = Criar um commit 
 
 **git status** = Para acompanhar como esta o status dos itens 
@@ -58,6 +64,23 @@
 
 **git add -u** = Atualizar alterações já realizadas dentro do repositório 
 
+**git reset --mixed** (comit ao qual quer retornar ) = comando para estar voltando ao commit desejado com os arquivos ainda para adicioanr na area de transferencia
+
+**git reset soft** (commit que deseja voltar ) = comando para voltar ao commit que deseja com os arquivos na area de transferencia
+
+**git reser --hard** (commit que deseja voltar) = comando para voltar ao commit que deseja, esse comando apaga todos os arquivos do commit resente
+
+**git commit -m --amend**(commit desejado ) = comando para renomear o commit 
+
+**git log** = para verificar os commit
+
+**git reflog** = verificar todos os commit ja realizados
+
+**git restore** =descartar alterações feitas nos arquivos
+
+**git branch -m** (nome da nova branch = Comando para alterar o nome da branch)
+
+**git cat
 
 
 **Obs** : Não utilizar os parenteses que estão nos comandos, foram colocados apenas para auxiliar quando for utilizar o comando 
