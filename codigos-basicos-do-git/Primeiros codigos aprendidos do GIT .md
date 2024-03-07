@@ -80,7 +80,7 @@
 
 **git branch -m** (nome da nova branch = Comando para alterar o nome da branch)
 
-**git cat
+
 
 
 **Obs** : Não utilizar os parenteses que estão nos comandos, foram colocados apenas para auxiliar quando for utilizar o comando 
