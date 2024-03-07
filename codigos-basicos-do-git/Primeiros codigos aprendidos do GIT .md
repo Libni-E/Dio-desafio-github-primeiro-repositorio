@@ -76,7 +76,7 @@
 
 **git reflog** = verificar todos os commit ja realizados
 
-**git restore** =descartar alterações feitas nos arquivos
+**git restore**(passar arquivo que ira deletar as atualizações) =descartar alterações feitas nos arquivos
 
 **git branch -m** (nome da nova branch = Comando para alterar o nome da branch)
 
